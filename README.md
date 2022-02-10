@@ -1,7 +1,7 @@
 # About Me
 👋 Hiiii, I’m Phoebe  
 🌱 I’m an undergrad computer engineering student in University of Waterloo  
-📫 Reach me on Insta @phoeluo or Facebook @Phoebe Luo  
+📫 Reach me on Linkedin @Phoebe Luo, Insta @phoeluo or Facebook @Phoebe Luo  
 ✨ Learning to become a better SOC engineer, a smarter programmer, and a more passionate food lover
   
 # My Languages
